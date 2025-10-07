@@ -43,8 +43,8 @@ Before you begin, ensure you have:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/SnipeSellBot.git
-   cd SnipeSellBot
+   git clone https://github.com/AghaFarokh/Telegram-BSC-Trader-Bot.git
+   cd Telegram-BSC-Trader-Bot
    ```
 
 2. **Install dependencies**
