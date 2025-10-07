@@ -2,7 +2,7 @@
 
 A powerful and secure Telegram bot for buying and selling tokens on Binance Smart Chain (BSC) with automatic approval and same-block execution capabilities.
 
-DEMO BOT is LIVE : t.me/SnipeSellBot
+DEMO BOT is LIVE : https://t.me/SnipeSellBot
 
 ![BSC](https://img.shields.io/badge/BSC-Mainnet-yellow)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
